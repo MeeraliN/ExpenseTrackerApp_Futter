@@ -3,9 +3,7 @@
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
-  <strong>
-    Generated with ❤️ from Dhiwise
-  </strong>
+  
   <p>
     This is the documentation of Flutter Applications.
     It holds all the info you need to get started with
@@ -92,6 +90,3 @@ https://pub.dev/packages/shared_preferences
 - cached_network_image - For storing internet image into cache
 https://pub.dev/packages/cached_network_image
     
-### Support
-
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
